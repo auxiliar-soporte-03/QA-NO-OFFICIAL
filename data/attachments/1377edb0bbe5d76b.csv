@@ -1,0 +1,2 @@
+description,package_configuration,service,time,time_type,observations
+combo_<random_name>,Cirugía y lentes,<tm_billing_service_list_name>,5,Minuto(s),<random_name>

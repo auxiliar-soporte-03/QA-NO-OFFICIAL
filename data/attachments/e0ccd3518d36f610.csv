@@ -1,0 +1,2 @@
+lastname,name,document_type,document_number,place_expedition,date_birth,email,gender,occupation,department,city,address,cellphone_number,CV,photo
+<new_user_last_name>,<new_user_first_name>,C.C,<new_user_document_number>,Barranquilla,<date_birth>,<random_email>,Masculino,Empleado,Atlántico,Barranquilla,CRA 11D #76-04,<phone_number>,utils/documents/pagina_en_blanco.pdf,utils/images/foto.jpg
