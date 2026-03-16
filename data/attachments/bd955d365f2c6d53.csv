@@ -1,2 +1,0 @@
-company_name,contract,filing_type,max_days_filing,filing_method,container_file_name,container_variable_type,document_type,document_name,document_variable
-<last_company_tenant>,<last_plan_contract>,Virtual,1,Individual,company_parameters,Codigo CIIU,<tm_last_billing_document>,document_<unique_random_register>,Codigo CIIU

@@ -1,2 +1,0 @@
-description,inventory_count,unit_of_measurement,supplier_classification,allow_for_sorting,alllow_for_dispensing,extra_description,action
-inv_grp_<random_name>,123test,123test,False,False,False,[],undo

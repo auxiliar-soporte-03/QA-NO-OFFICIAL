@@ -1,2 +1,0 @@
-service,quantity,unit,always
-<select_first_option>,1,<last_unit_measurement_prefix>,True

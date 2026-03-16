@@ -1,6 +1,0 @@
-chart_account_type,chart_account_id,name,account_type,payment_type,use_third_party,demands_cost_center,account_number,contains_banking_information,bank_name,cta_number,cta_type,check_number
-class_chart_account,9,Clase_Contable_<unique_random_register>,NIIF,debito,False,False,,False,,,,
-group_chart_account,91,Grupo_Contable_<unique_random_register>,NIIF,debito,False,False,,False,,,,
-group_chart_account,9122,<COA_account_level>_Cuenta_Contable_<unique_random_register>,NIIF,debito,False,False,,False,,,,
-account_chart_account,912237,Subcuenta_Contable_<unique_random_register>,NIIF,debito,False,False,,False,,,,
-account_chart_account,91223795,auxiliar_contable_<unique_random_register>,NIIF,debito,False,False,,False,,,,
