@@ -1,2 +1,0 @@
-CUM,code,chemical_substance,handelsname,pharmazeutische_form,pharmacological_group,drug_subgroup,medication_provision,volume,unit,presentation,recipe_unit,Quantity_recipe_unit,concentration,organic_system,INVIMA,indications,diagnoses,pharmaceutical_unit,contract_selection
-<monetary_value>,<only_number>,<last_medication>,<random_name>,tableta,<random_name>,<random_name>,Dispensación,<only_number>,Aplicador,Gel,Tubo,<only_number>,200mg,<random_name>,None,<random_name>,<last_cie10>,mg,<last_company_tenant>

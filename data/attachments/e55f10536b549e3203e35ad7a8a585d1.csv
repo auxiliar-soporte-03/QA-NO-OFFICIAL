@@ -1,2 +1,0 @@
-operator_type,type_or_link,start_date,end_date,specialty,sub_specialty,third_party,user_name,position
-Médicos,Externo,<today_date_with_hyphen>,<today_date_with_hyphen>,<last_billing_specialty>,<last_billing_subspecialty>,<last_legal_entity_tax_id>,<last_user_name>,<payroll_last_role>
