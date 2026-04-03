@@ -1,0 +1,2 @@
+description,comercial_name,document_type,document_number,taxpayer_type,CIUU_code,country,department,city,address,phone,email,website,documents,charge,company_type,plan_type,headquarter,regimen_type
+company_<random_name>,<random_company>,C.C,<document_number>,Regimen Común,Trilla de café,Colombia,Atlántico,Barranquilla,<random_name>,<phone>,<random_email>,https://prueba.com,utils/documents/pagina_en_blanco.pdf,<random_name>,EPS,Libre,<last_headquarters_name>,<last_regimen_type_description>
