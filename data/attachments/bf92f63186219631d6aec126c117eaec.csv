@@ -1,0 +1,2 @@
+id_type,document_number,gender,birth_date,phone,first_name,last_name,email,password,account,profile
+C.E,<last_user_id>,Femenino,1994-05-10,1234567790,QAlAURA<random_name>,QANAVAS<random_name>,<random_email>,Carlos12345@,<playwright_col_account>,ADMINISTRADOR

@@ -1,0 +1,2 @@
+description,manual,service_type,services,surgeon,code,select_all
+AssigmentService<random_name>,<tm_last_pricing_manual_description>,CIRUGÍA,<last_service>,1,<tm_billing_last_service_code>,true
