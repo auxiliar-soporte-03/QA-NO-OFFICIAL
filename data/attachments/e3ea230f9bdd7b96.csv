@@ -1,0 +1,2 @@
+service,quantity,unit,always,type_service
+<select_first_option>,1,Minuto(s),True,CONSULTA
