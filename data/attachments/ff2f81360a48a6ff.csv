@@ -1,0 +1,2 @@
+service_name,required_pictures,required_report,name,type,values_type,measure,OD,OI
+<administration_billing_last_dx_service_name>,True,True,var<unique_random_register>,Campo de texto,"[""Opcion test 1""]",<last_unit_measurement_prefix>,True,True

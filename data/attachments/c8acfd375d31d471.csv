@@ -1,0 +1,2 @@
+description,code_type,service_type,surgery_configuration,liquidation_format,surgeon_percentage,anesthesiologist_percentage,surgical_assistant_percentage,operating_room_percentage,surgical_supplies_percentage,one_organ_percentage,two_organ_percentage
+<administration_tm_billing_last_surgery_pricing_manual_description>,code_,CIRUGÍA,true,Porcentaje,50,25,15,5,5,2,3

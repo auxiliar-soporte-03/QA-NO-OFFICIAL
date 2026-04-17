@@ -1,0 +1,2 @@
+razon_social,abreviacion,correo_electronico,dirección,tipo_de_doc,nit,tipo_de_empresa,tipo_de_sociedad,prestacion_de_servicios_de_salud,telefono,primer_nombre,segundo_nombre,primer_apellido,segundo_apellido,tipo_de_doc,numero_de_doc,lugar_de_exp,celular,modulo,usuario_responsable,data_processing
+QA<random_name>,<unique_random_register>,<random_email>,Calle 123 #45-67,Nit,<random_nit>,Privada,sociedad colectiva,234,3015888621,QANAMEQA<random_name>,David,Garcia,Perez,C.C,1045884472,Barranquilla,3015222541,Administracion,<last_user_first_name>,Datos de tratamiento test

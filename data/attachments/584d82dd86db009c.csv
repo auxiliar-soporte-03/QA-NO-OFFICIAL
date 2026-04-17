@@ -1,0 +1,2 @@
+reporter,date,title,description,affected_employee,injury_description,attach_furat,attachments
+<payroll_last_collaborator_full_name>,<today_date_with_hyphen>,Accident_<random_name>,payroll_<random_name>,<payroll_last_collaborator_full_name>,<random_name>,utils\documents\pagina_en_blanco.pdf,utils\documents\pagina_en_blanco.pdf

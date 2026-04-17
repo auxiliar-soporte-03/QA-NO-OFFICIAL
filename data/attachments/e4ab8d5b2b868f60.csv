@@ -1,0 +1,2 @@
+description,inventory_count,unit_of_measurement,supplier_classification,allow_for_sorting,alllow_for_dispensing,extra_description,action
+inv_grp_<unique_random_register>,<last_inventory_count>,<last_unit_measurement_name>,True,False,False,[],create
