@@ -1,2 +1,0 @@
-description,attendant,functional_unit,inventory_group,cost_center,chart_of_accounts,initial_effectiv_date,end_of_validity_date,annual_budget
-consu_center_<random_name>,<last_user_first_name>,<last_functional_unit_description>,<last_inventory_group_description>,<last_cost_center_description>,<last_inventory_count>,<today_date_with_hyphen>,<today_date_with_hyphen>,5

@@ -1,0 +1,2 @@
+description,anesthetic_risk,cie_10,patient_document,send_to_sorting,year_of_surgery,anesthesia,service
+QA<random_name>,Normal,<last_cie10>,<last_patient_document_number>,False,2024,General,<administration_billing_last_evaluacion_pre_operatoria_service_name>

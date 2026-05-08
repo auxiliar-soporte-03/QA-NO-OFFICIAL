@@ -1,0 +1,2 @@
+user,date,description,patient,service
+<last_user_first_name>,<appointments_last_appointment_date>,<random_name>,<last_patient_document_number>,<administration_billing_last_baja_vision_service_name>

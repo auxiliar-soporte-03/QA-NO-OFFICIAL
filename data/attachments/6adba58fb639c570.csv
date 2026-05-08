@@ -1,2 +1,0 @@
-charge_type,collection_letter_name,days,send_hour,letter_header,letter_greeting,subject,body,closing,signature
-<last_charge_type_name>,<last_collection_letter_name>,2,00:30,Encabezado de carta editado,Saludo editado,Asunto editado,Cuerpo de la carta <unique_random_register>,despedida,firma
