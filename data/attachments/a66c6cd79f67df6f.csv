@@ -1,0 +1,2 @@
+id_type,document_number,gender,birth_date,phone,first_name,last_name,email,password,account,profile
+C.C,<last_user_id>,Masculino,1994-05-10,1234567790,<new_user_first_name>,<new_user_last_name>,<new_user_mail>,<new_user_password>,<last_account_name>,ADMINISTRADOR

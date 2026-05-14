@@ -1,0 +1,2 @@
+description,income_account,return_account,IVA,IVA_account
+QASaleService<random_name>,account,account,true,account

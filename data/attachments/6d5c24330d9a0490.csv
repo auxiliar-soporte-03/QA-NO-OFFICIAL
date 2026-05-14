@@ -1,0 +1,2 @@
+type_of_bill,prefix,actual_bill,first_bill,last_bill,resolution_number,user,aproval_date,end_date,description
+true,resol_<random_name>,<tax_id_random>,<tax_id_random>,<tax_id_random>,<last_billing_resolution_id>,<last_user_name>,<random_date>,<random_date>,Test

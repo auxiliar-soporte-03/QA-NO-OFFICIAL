@@ -1,0 +1,2 @@
+charge_type,collection_letter_name,days,send_hour,letter_header,letter_greeting,subject,body,closing,signature
+<last_charge_type_name>,carta_cobro_<unique_random_register>,2,00:30,Encabezado de carta,Saludo,Asunto,Cuerpo de la carta,despedida,firma

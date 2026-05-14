@@ -1,0 +1,2 @@
+description,aditional_info,addres,receive_supplier,image_upload,headquartes,relation_article,reorder,min,max,available,accept_externals
+<tm_last_warehouse_description>,<random_name>,<random_name>,True,utils/images/foto.jpg,<last_headquarters_name>,<last_article_name>,2,1,3,2,True

@@ -1,0 +1,2 @@
+mode,description,cie_10,patient_document,send_to_sorting,service,fixation_od,fixation_oi
+2,QA<random_name>,<last_cie10>,<last_patient_document_number>,False,<administration_billing_last_ortoptica_service_name>,Central estable,Nistágmica

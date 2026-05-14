@@ -1,0 +1,2 @@
+description,inventory_group,trade_name,permission_required,unit_measure,unique_unit,measure_quantity,aditional_units,barcode,reference,property,consignment,laboratory_or_manufacturer,cost_price,iva,sales_price,dotation
+<last_article_name>,<last_inventory_group_description>,QAArti<random_name>,False,<last_unit_of_measurement>,False,3,[],00222541,6515,True,True,False,1000.000,Exento,20000,False
