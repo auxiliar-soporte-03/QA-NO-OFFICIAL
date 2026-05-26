@@ -1,2 +1,0 @@
-description,patient_document,send_to_sorting,service,medical_contract,document
-QA<random_name>,<last_patient_document_number>,False,<administration_billing_last_dx_service_name>,<last_user_first_name>,utils/documents/pagina_en_blanco.pdf
